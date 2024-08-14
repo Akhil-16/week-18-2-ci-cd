@@ -1,9 +1,6 @@
 
 export default function() {
     return <div>
-        
-
-        
-        transactions
+    Transactions
     </div>
 }
