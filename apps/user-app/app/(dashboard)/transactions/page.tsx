@@ -4,6 +4,6 @@ export default function() {
         
 
         
-        transactions
+        Ola
     </div>
 }
