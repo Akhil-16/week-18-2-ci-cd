@@ -4,6 +4,6 @@ export default function() {
 
 
         
-       RAKAMMA
+       Rama sita
     </div>
 }
